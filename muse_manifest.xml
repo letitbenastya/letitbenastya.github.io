@@ -1,0 +1,68 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="paperlife.ru" resolutions="1x" timestamp="1514220949793">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4004108036" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="безимени-1.gif" crc="443250866" seo="true" ref="index"/>
+    <file name="u836-4.png" crc="4163840035" ref="index"/>
+    <file name="u271-4.png" crc="3863824915" ref="index"/>
+    <file name="u277-4.png" crc="333509731" ref="index"/>
+    <file name="u599-5.png" crc="535760241" ref="index"/>
+    <file name="u323-4.png" crc="3953082585" ref="index"/>
+    <file name="вставленные-svg-166.svg" crc="3848820519" seo="true" ref="index"/>
+    <file name="вставленные svg 166_poster_.png" crc="3863935573" ref="index"/>
+    <file name="вставленные-svg-424755x411.svg" crc="230937121" seo="true" ref="index"/>
+    <file name="вставленные svg 424755x411_poster_.png" crc="164185361" ref="index"/>
+    <file name="вставленные-svg-39708x392.svg" crc="381346396" seo="true" ref="index"/>
+    <file name="вставленные svg 39708x392_poster_.png" crc="4286335287" ref="index"/>
+    <file name="u602-7.png" crc="4160362714" ref="index"/>
+    <file name="u605-5.png" crc="378660345" ref="index"/>
+    <file name="вставленные-svg-290685x392.svg" crc="4091658354" seo="true" ref="index"/>
+    <file name="вставленные svg 290685x392_poster_.png" crc="3814823973" ref="index"/>
+    <file name="вставленные-svg-315019x391.svg" crc="80265827" seo="true" ref="index"/>
+    <file name="вставленные svg 315019x391_poster_.png" crc="4030189151" ref="index"/>
+    <file name="u608-7.png" crc="321639847" ref="index"/>
+    <file name="u611-5.png" crc="3957995972" ref="index"/>
+    <file name="вставленные-svg-358536x384.svg" crc="4203634335" seo="true" ref="index"/>
+    <file name="вставленные svg 358536x384_poster_.png" crc="3772040723" ref="index"/>
+    <file name="вставленные-svg-357731x391.svg" crc="3827138413" seo="true" ref="index"/>
+    <file name="вставленные svg 357731x391_poster_.png" crc="4225868370" ref="index"/>
+    <file name="u614-5.png" crc="391319837" ref="index"/>
+    <file name="u617-4.png" crc="4017808548" ref="index"/>
+    <file name="вставленные-svg-342174x396.svg" crc="263183032" seo="true" ref="index"/>
+    <file name="вставленные svg 342174x396_poster_.png" crc="252671947" ref="index"/>
+    <file name="вставленные-svg-345452x390.svg" crc="4147074786" seo="true" ref="index"/>
+    <file name="вставленные svg 345452x390_poster_.png" crc="4087998240" ref="index"/>
+    <file name="u620-4.png" crc="23483061" ref="index"/>
+    <file name="u623-4.png" crc="3823109794" ref="index"/>
+    <file name="вставленные-svg-327824x395.svg" crc="4092966394" seo="true" ref="index"/>
+    <file name="вставленные svg 327824x395_poster_.png" crc="123382591" ref="index"/>
+    <file name="u238-9.png" crc="3360473" ref="index"/>
+    <file name="u292-12.png" crc="117465577" ref="index"/>
+    <file name="u283-6.png" crc="487489179" ref="index"/>
+    <file name="u244-4.png" crc="82412563" ref="index"/>
+    <file name="06с пиктограммами.jpg" crc="4185069687" seo="true" ref="index"/>
+    <file name="планшет с сайтом.jpg" crc="182937950" seo="true" ref="index"/>
+    <file name="bookstore-design.jpg" crc="245303745" seo="true" ref="index"/>
+    <file name="label-mockup-freebieсп11иктограммами.jpg" crc="4210779630" seo="true" ref="index"/>
+    <file name="bus stop billboard mockupс плакатом.jpg" crc="515548019" seo="true" ref="index"/>
+    <file name="крстаканчик.jpg" crc="204112092" seo="true" ref="index"/>
+    <file name="пакет.jpg" crc="4162115906" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="124776240" seo="true" mt="1514220524359" redirect="true"/>
+</manifest>
